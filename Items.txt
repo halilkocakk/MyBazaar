@@ -1,0 +1,31 @@
+BOOK	2	1	2016	Everything We Keep	Lake Union	Kerry Lonsdale	306
+BOOK	25	1	1992	Ulysses	Modern Library	James Joyce	844
+BOOK	4	1	1960	To Kill a Mockingbird	J B Lippincott Co	Harper Lee	281
+BOOK	7	1	2004	Sorcery and Cecelia	HMH Books	Patricia C Wrede	336
+CDDVD	10	1	2016	Live North America	Gary Clark Jr	Grinder,Our Love,When My Train Pulls In,Church
+CDDVD	5	1	2008	One of the Boys	Katy Perry	One Of The Boys,I Kissed A Girl,Thinking Of You,If You Can Afford Me
+CDDVD	13	1	2012	Red	Taylor Swift	State Of Grace,Red,I Almost Do
+CDDVD	21	1	1959	Kind of Blue	Miles Davis	So What,Freddy Freeloader
+CDDVD	18	1	1957	The Great Ray Charles	Ray Charles	The Ray,The Man I Love,Hornful Soul
+DESKTOP	1000	1	AsusTek Computer Inc	ASUS	220	250	Free Dos	Intel Core i3	8	500	red
+DESKTOP	2100	1	Dell Inc	DELL	220	250	Windows 10 Home	Intel Core i7	16	2000	black
+DESKTOP	2400	1	Apple Inc	APPLE	220	250	MAC OS X Yosemite	Intel Core i5	8	500	white
+LAPTOP	3100	1	AsusTek Computer Inc	ASUS	220	250	Windows 10 Home	Intel Core i7	16	750	black	1
+LAPTOP	3400	1	Apple Inc	APPLE	220	250	MAC OS	Intel Core i5	8	1000	silver	0
+LAPTOP	2050	1	Dell Inc	DELL	220	250	Free Dos	Intel Core i7	16	400	black	1
+TABLET	90	1	AsusTek Computer Inc	ASUS	220	100	Android 4.4	Qualcomm Quad Core	1	8	9
+TABLET	135	1	Samsung Electronics	SAMSUNG	220	100	Android 5.0.2	Samsung Exynos	3	32	11
+TV	900	1	Royal Philips Electronics	PHILIPS	200	240	43
+TV	1500	1	Samsung Electronics	SAMSUNG	200	240	40
+TV	12000	1	Royal Philips Electronics	PHILIPS	200	240	74
+SMARTPHONE	700	1	Samsung Electronics	SAMSUNG	200	240	Quad HD Super AMOLED
+SMARTPHONE	600	1	Sony Electronics	SONY	200	240	Super AMOLED
+SMARTPHONE	1100	1	Apple Inc	APPLE	200	240	IPS LCD
+HAIRCARE	22	1	Henkel AG	Schwarzkopf	1	2019	1000	0
+HAIRCARE	26	1	Goldwell Manufacturing	Goldwell	1	2021	750	1
+PERFUME	13	1	Calvin Klein Inc	Calvin Klein	0	2025	250	75
+PERFUME	17	1	Hugo Boss Group	Hugo Boss	0	2021	330	110
+PERFUME	11	1	Calvin Klein Inc	Calvin Klein	0	2019	500	30
+SKINCARE	19	1	Beiersdorf Global AG	Nivea	1	2017	150	1
+SKINCARE	13	1	Clinique Laboratories	Clinique	0	2025	750	1
+SKINCARE	9	1	Beiersdorf Global AG	Nivea	0	2022	400	0
